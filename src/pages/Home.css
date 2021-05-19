@@ -1,0 +1,13 @@
+ion-item {
+  --background-hover: none;
+  --background-activated: none;
+  --ripple-color: transparent;
+}
+
+ion-checkbox {
+  position: relative;
+}
+
+ion-icon {
+  cursor: pointer;
+}
